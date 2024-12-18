@@ -10,12 +10,7 @@ import os
 import pymongo
 
 # Configuration
-SPOONACULAR_API_KEY = "f435b46614884bd881fde2d0e875f38a"
-GENERATIVE_API_KEY = "AIzaSyCBuuZAWJRHEQKIyNF4RBPvGEuy_cUqQWM"
-YOUTUBE_API_KEY = "AIzaSyB7ldFf-ri1ATcu3SSI1HTIZhI_rZ15j0o"
-TRANSLATE_API_KEY = "AIzaSyB7ldFf-ri1ATcu3SSI1HTIZhI_rZ15j0o"
-VISION_API_KEY = "AIzaSyB7ldFf-ri1ATcu3SSI1HTIZhI_rZ15j0o"
-MONGO_URI = "mongodb+srv://adarshlilhare5000:<Ada3%40rsh3%23>@cluster1.n1mp0.mongodb.net/"
+#get all those api key access first
 
 # Initialize pygame for audio playback
 pygame.mixer.init()
